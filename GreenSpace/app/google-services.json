@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "973612473858",
+    "firebase_url": "https://sep2-881ed-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sep2-881ed",
+    "storage_bucket": "sep2-881ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973612473858:android:dd840a828cc9e25979911b",
+        "android_client_info": {
+          "package_name": "com.example.greenspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973612473858-9739h11blre7096neqpjre18h4efknji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeyTTSSSSBmMXdOKpEgWLK52vIqPxsVYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973612473858-9739h11blre7096neqpjre18h4efknji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973612473858:android:0ff91a47dca73b0279911b",
+        "android_client_info": {
+          "package_name": "com.example.rotaryhydroponicssystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973612473858-9739h11blre7096neqpjre18h4efknji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeyTTSSSSBmMXdOKpEgWLK52vIqPxsVYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973612473858-9739h11blre7096neqpjre18h4efknji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973612473858:android:c18331b4bd45b4eb79911b",
+        "android_client_info": {
+          "package_name": "com.example.sep2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973612473858-9739h11blre7096neqpjre18h4efknji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeyTTSSSSBmMXdOKpEgWLK52vIqPxsVYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973612473858-9739h11blre7096neqpjre18h4efknji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
